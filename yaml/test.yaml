@@ -1,0 +1,10 @@
+cars:
+  - make: Pontiac
+    model: GTO
+    description: "A sports car"
+    horsepower: 350
+    
+  - make: Mazda
+    model: RX8
+    description: "A different sports car"
+    horsepower: 320
